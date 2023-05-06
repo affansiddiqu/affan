@@ -1,0 +1,17 @@
+body{
+    background-image: url(images/download.jpg);
+    width: 1500px;
+    height: 800px;
+        color: black;
+    }
+    nav{
+        margin-top: -900px;
+        background-color: black;
+    }
+    nav a{
+        color: white;
+        text-decoration: none;
+    }
+    hr{
+        color: black;
+    }

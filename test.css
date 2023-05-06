@@ -1,0 +1,70 @@
+body{
+    color: white;
+    background-color: black;
+}
+#box{
+     margin-left: 670px;
+     margin-top: -20px;
+     text-align: center;
+}
+nav{
+    margin-left: 200px;
+    padding: 20px;
+    width: 900px;
+}
+
+main{
+    text-align: center;
+    margin-top: 100px;
+}
+.fa-sharp{
+    margin-left: -25px;
+    color: black;
+}
+
+footer{
+    background-color: white;
+    margin-top: 150px;
+    color: black;
+    height: 1000px;
+    text-align: center;
+}
+.fa-dumbbell{
+    margin-left: -1020px;
+    font-size: 50px;
+}
+
+h2 , p{
+    margin-left: -1000px;
+}
+
+.box1{
+    margin-left: 700px;
+    margin-top: -190px;
+}
+.fa-person-hiking{
+    margin-left: -1020px;
+    font-size: 50px;
+
+}
+.fa-person-walking{
+    margin-left: -1020px;
+    font-size: 50px;
+}
+.box2{
+    margin-left: 1350px;
+    margin-top: -190px;
+}
+.fa-person-swimming{
+    font-size: 50px;
+    margin-left: -1000px;
+    margin-top: -400px;
+}
+.box3{
+    margin-left: 1700px;
+    margin-top: -160px;
+}
+.fa-fishing-rod{
+    font-size: 50px;
+    color: black;
+}

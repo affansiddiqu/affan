@@ -1,0 +1,45 @@
+h1{
+text-align: center;
+color: cadetblue;
+background-color: blueviolet;
+}
+p{
+    font-size: large;
+    color: blue;
+    background-color: black;
+}
+p,h1,h3{
+     border: solid;
+     box-shadow: brown;
+}
+h2{
+    color: blue;
+    background-color: black;
+}
+
+
+h2{
+
+box-shadow: yellow;
+background-color: aqua;
+list-style: circle;
+border-top: red;
+border-color: black;
+
+}
+
+table thead th,tbody tr td{
+
+    border: 2px solid
+black 
+
+
+}
+table{
+background-color: yellow;
+border-collapse: collapse;
+border-block: thin;
+
+
+}
+

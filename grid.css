@@ -1,0 +1,27 @@
+
+body{
+
+background-color: yellow;
+
+}
+
+.class1{
+
+/* background-color: aquamarine; */
+width: 1200px;
+height: 100px;
+display: grid;
+ grid-template-columns: 100px 100px 110px 130px; 
+grid-column-gap: 50px;
+/* grid-row-gap: 40px; */
+/* grid-template-rows: 100px 70px 110px 130px; */
+}
+
+.classitem1,.classitem2,.classitem3,.classitem4{
+
+background-color: green;
+color: blue;
+width: 100px;
+height: 90px;
+
+}

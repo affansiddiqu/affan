@@ -1,0 +1,54 @@
+body{
+
+background-color: green;
+
+}
+
+*{
+
+margin: 0;
+padding: 0;
+
+}
+
+.box{
+
+width: 1000px;
+margin: 0 auto;
+background-color: yellow;
+margin-top: 10px;
+
+}
+
+.box ul{
+
+list-style: none;
+padding: 10px;
+
+}
+
+.box ul li{
+
+display: inline-block;
+
+}
+
+.box ul li a{
+
+text-decoration: none;
+padding: 25px;
+color: black;
+
+}
+
+.box ul li a:hover{
+
+background-color: black;
+color: yellow;
+
+}
+
+img{
+
+    float: right;
+}

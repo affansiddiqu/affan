@@ -1,0 +1,22 @@
+.box{
+
+width: 200px;
+height: 180px;
+background-color: teal;
+animation-name: box1;
+animation-duration: 3s;
+animation-direction: alternate;
+position: relative;
+animation-iteration-count: infinite;
+animation-play-state: running;
+
+}
+@keyframes box1{
+
+0%{background-color: red; left: 0px; top:0px;}
+25%{background-color: yellow;left: 300px; top: 0px;}
+50%{background-color: blue; left: 300px; top:300px;}
+75%{background-color: green; left: 0px; top:300px;}
+100%{background-color: red; left: 0px; top:0px;}
+
+}
